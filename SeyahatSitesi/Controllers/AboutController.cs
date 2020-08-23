@@ -6,7 +6,7 @@ using System.Web.Mvc;
 using SeyahatSitesi.Models.Sınıflar;
 namespace SeyahatSitesi.Controllers 
 {
-    public class AboutController : Controller
+    public class AboutController : Controller //Hakkinda controller
     {
         // GET: About
         Context c = new Context();
