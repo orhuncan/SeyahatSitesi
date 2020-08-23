@@ -8,7 +8,7 @@ using SeyahatSitesi.Models.Sınıflar;
 
 namespace SeyahatSitesi.Controllers
 {
-    public class GirisYapController : Controller
+    public class GirisYapController : Controller // kullanıcı giris yetki ıslemlerı yapıldı
     {
         // GET: GirisYap
         Context c = new Context();
