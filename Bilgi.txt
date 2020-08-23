@@ -1,0 +1,5 @@
+Bu bir gezi seyahat blog sitesidir.
+Admin blog ekleyip,blog güncelleme, blog silme yapabilir.
+Asp.net mvc kullanılarak yapılmış dinamik bir sitedir.
+Veritabanı olarak code first kullanılmıştır.
+Bu yüzden işlemlerimizin çoğunu classları kullanarak yapmaktayız.
