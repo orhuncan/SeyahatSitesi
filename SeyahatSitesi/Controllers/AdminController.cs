@@ -7,7 +7,7 @@ using SeyahatSitesi.Models.Sınıflar;
 
 namespace SeyahatSitesi.Controllers
 {
-    public class AdminController : Controller
+    public class AdminController : Controller //admin islemleri gerceklestirildi
     {
         // GET: Admin
         Context c = new Context();
